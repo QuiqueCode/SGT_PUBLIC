@@ -28,7 +28,8 @@ Alcaración
 
 ## Interfaz de inspección
 
-<img width="1915" alt="image" src="https://github.com/user-attachments/assets/1e4364d1-ee3d-43ed-b556-9aa11f31b043" />
+<img width="1915" alt="image" src="https://github.com/user-attachments/assets/85d7449a-656a-4095-bbab-963b305472b1" />
+
 
 
 
