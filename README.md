@@ -8,10 +8,13 @@ Alcaración
 
 ## Interfaz de administración
 
-<img width="1916" alt="image" src="https://github.com/user-attachments/assets/5f6cf758-e2d9-49ee-b76a-592149d26c62" />
+<img width="1913" alt="image" src="https://github.com/user-attachments/assets/1f5538ae-9980-40b2-aa1c-aec8cea785bf" />
 
 
-<img width="1919" alt="image" src="https://github.com/user-attachments/assets/006d10d9-17ed-420a-a1d6-8027d707c270" />
+
+
+<img width="1912" alt="image" src="https://github.com/user-attachments/assets/8b375cef-7373-4f72-b494-070aa10fb0d9" />
+
 
 
 
