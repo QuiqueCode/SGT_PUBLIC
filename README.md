@@ -39,7 +39,8 @@ Alcaración
 
 ## Interfaz de aprobador
 
-<img width="1913" alt="image" src="https://github.com/user-attachments/assets/9285ed9c-e460-4cc3-a25d-918dcb14c0eb" />
+<img width="1918" alt="image" src="https://github.com/user-attachments/assets/81bdd9d7-8f0e-4a55-b2e5-aab8be2d0584" />
+
 
 
 
