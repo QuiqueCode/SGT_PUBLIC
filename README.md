@@ -27,7 +27,7 @@ Alcaración
 
 ## Interfaz de revisor
 
-<img width="1898" alt="image" src="https://github.com/user-attachments/assets/7a656598-d013-45e9-849b-877dee423316" />
+<img width="1916" alt="image" src="https://github.com/user-attachments/assets/ad6d1f00-c1dc-4be3-80fa-24be317dc8bf" />
 
 
 ## Interfaz de inspección
