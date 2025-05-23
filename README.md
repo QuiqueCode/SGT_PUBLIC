@@ -1,10 +1,10 @@
 # SGT
 
-Descripción
+Este sistema fue desarrollado con el objetivo de facilitar la gestión de trámites ciudadanos en la Municipalidad de Limón. Permite registrar, asignar, almacenar y aprobar solicitudes de forma centralizada, sencilla y eficiente. Su diseño busca optimizar el flujo de trabajo administrativo y mejorar la atención a los ciudadanos, todo dentro de una única plataforma digital.
 
 ## Aclaración
 
-Alcaración
+Por razones de confidencialidad, el código fuente del sistema no puede ser compartido públicamente. Sin embargo, en la parte inferior de este repositorio encontrarás imágenes que muestran la interfaz y funcionamiento del sistema.
 
 ## Interfaz de administración
 
