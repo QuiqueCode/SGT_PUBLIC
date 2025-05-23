@@ -20,7 +20,8 @@ Alcaración
 
 ## Interfaz de plataformista
 
-<img width="1891" alt="image" src="https://github.com/user-attachments/assets/23780abe-ef66-4ece-9d61-46997815e62d" />
+<img width="1896" alt="image" src="https://github.com/user-attachments/assets/d4a1960f-fe62-42c7-954a-4195bf12d20f" />
+
 
 
 
