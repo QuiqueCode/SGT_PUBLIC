@@ -4,7 +4,7 @@ Este sistema fue desarrollado con el objetivo de facilitar la gestión de trámi
 
 ## Aclaración
 
-Por razones de confidencialidad, el código fuente del sistema no puede ser compartido públicamente. Sin embargo, en la parte inferior de este repositorio encontrarás imágenes que muestran la interfaz del sistema.
+Por razones de confidencialidad, el código fuente del sistema no puede ser compartido públicamente. Sin embargo, en la parte inferior de este repositorio encontrarás imágenes que muestran la interfaz del sistema con datos de prueba.
 
 ## Interfaz de administración
 
