@@ -49,6 +49,6 @@ Por razones de confidencialidad, el código fuente del sistema no puede ser comp
 ## Tecnologías utilizadas
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&)
 [![React](https://img.shields.io/badge/any_React-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&label=%20&labelColor=black&color=%2361DAFB&cacheSeconds=3600)]()[![Material UI](https://img.shields.io/badge/build-Material%20UI-React?style=for-the-badge&logo=mui&logoColor=white&label=%20&labelColor=black&color=%2361DBFB&cacheSeconds=3600)]()
-[![MySQL](https://img.shields.io/badge/build-MySql-MySql?style=for-the-badge&logo=MySql&logoColor=white&label=%20&labelColor=black&color=%234479A1&cacheSeconds=3600)]() ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-Node.js-blue?style=for-the-badge&logo=nodedotjs&logoColor=white&label=%20&labelColor=black&color=%23339933&cacheSeconds=3600)
+[![MySQL](https://img.shields.io/badge/build-MySql-MySql?style=for-the-badge&logo=MySql&logoColor=white&label=%20&labelColor=black&color=%234479A1&cacheSeconds=3600)]() ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-Node.js-blue?style=for-the-badge&logo=nodedotjs&logoColor=white&label=%20&labelColor=black&color=%23339933&cacheSeconds=3600)![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-SEQUELIZE-blue?style=for-the-badge&logo=sequelize&label=%20&labelColor=black)
 
 
