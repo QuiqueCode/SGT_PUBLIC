@@ -18,14 +18,14 @@ Por razones de confidencialidad, el código fuente del sistema no puede ser comp
 
 
 
-## Interfaz de plataformista
+## Interfaz de ingreso de trámites
 
 <img width="1896" alt="image" src="https://github.com/user-attachments/assets/d4a1960f-fe62-42c7-954a-4195bf12d20f" />
 
 
 
 
-## Interfaz de revisor
+## Interfaz de revisión
 
 <img width="1916" alt="image" src="https://github.com/user-attachments/assets/ad6d1f00-c1dc-4be3-80fa-24be317dc8bf" />
 
@@ -37,7 +37,7 @@ Por razones de confidencialidad, el código fuente del sistema no puede ser comp
 
 
 
-## Interfaz de aprobador
+## Interfaz de aprobación
 
 <img width="1918" alt="image" src="https://github.com/user-attachments/assets/81bdd9d7-8f0e-4a55-b2e5-aab8be2d0584" />
 
